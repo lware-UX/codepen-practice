@@ -1,5 +1,3 @@
-# codepen-practice
-
 <html>
 	<head>
 		<title>Practice</title>
